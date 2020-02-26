@@ -1,0 +1,14 @@
+*if You deleted [IP_PORT.txt] recreate it and add the following:
+ IP: Your IP goes here
+ PORT:  The port is here in most cases(default 1337)
+
+*Unknown error occur Try These:
+ -Reuse FTP payload
+ -Check IP/PORT
+ -make sure [IP_PORT.txt] is within the tool folder
+ -Try running the tool with administrator
+
+*If you tried to dump the same theme that already exists it'll fail
+*In most cases you need to keep the FTP page running
+*Using Lan connection sometimes doesn't work
+

@@ -1,0 +1,14 @@
+
+To begin with, I do not have any decryption keys nor exploits or what so ever.
+As soon as you use a theme the PS4 immediately decrypts the pkg files, 
+they are then saved in one place. What my tool does is it downloads those decrypted 
+content files of the THEME.pkg
+
+Cool stuff you can do with the files you can use them dynamic themes and make 
+a phone/PC/PSvita theme with sounds & background music
+Note: PlayStation systems use special sound/music format (at9, at10)
+      that are quite rare there many ways to convert them to mp3
+
+You may also change the bgm and repackage the theme and install it back.
+
+

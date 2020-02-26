@@ -1,0 +1,12 @@
+To Dump PKG Theme 
+
+*First make sure the theme is installed and it's the one being used.
+*Second connect your PS4 & PC to the same wifi
+*Put your PS4 Ip and Port (IP_PORT.txt) if cannot find it [Read errors.txt]
+*Run FTP payload on PS4 then run ThemeDumperFTP.exe
+*Wait for it...
+*Have fun
+
+Do not hesitate to contact me for any issues
+Twitter : @OfficialAhmed0 
+
